@@ -2,8 +2,10 @@
 A swiper which uses scrollView in react-native,both fit in Android and iOS.
 It supports loop and autoPlay,there are some props below:
 
-  length: PropTypes.number.isRequired,
+  
     loop: PropTypes.bool,
+    
+    length: PropTypes.number.isRequired,
     
     autoPlay: PropTypes.bool,
     
